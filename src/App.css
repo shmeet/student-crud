@@ -1,0 +1,27 @@
+.student-table{
+  border-collapse: collapse;
+}
+
+.student-table th{
+  padding: 2px;
+}
+
+.student-table td{
+  padding: 2px;
+}
+
+.student-table tbody tr{
+  cursor: pointer;
+}
+
+.student-table tbody tr:hover{
+  background-color: #e6e6e6;
+}
+
+.left-align{
+  text-align: left;
+}
+
+.student-table .selected{
+  background-color: #b6b6b6;
+}

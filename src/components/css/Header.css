@@ -1,0 +1,28 @@
+header{
+    background-color: #b8e6f5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    padding: 10px;
+}
+
+header .header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;    
+}
+
+header .brand{
+    font-size: 1.6em;
+    text-decoration: none;
+    color: #000
+}
+header ul{
+    display: flex;
+}
+header ul li{
+    margin-left: 15px;
+    display: inline;
+    text-decoration: none;
+}
